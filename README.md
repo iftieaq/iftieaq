@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm iftieaq</h1>
 <h3 align="center">A full stack JavaScript Developer</h3>
 
-- 🔭 I’m currently working on **Sharetrip B2B**
+- 🔭 I’m currently working on **Sharetrip Limited**
 
 - 💬 Ask me about **TypeScript, JavaScript, Node.js, React.js, Vue.js, Next.js, Nest.js**
 
